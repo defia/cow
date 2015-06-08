@@ -8,6 +8,7 @@ import (
 	// "runtime/pprof"
 	"sync"
 	"syscall"
+	_ "trf"
 )
 
 // var cpuprofile = flag.String("cpuprofile", "", "write cpu profile to file")
